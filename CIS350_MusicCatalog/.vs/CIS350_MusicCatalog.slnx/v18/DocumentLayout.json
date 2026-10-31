@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|solutionrelative:CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CIS350_MusicCatalog.cpp",
+              "DocumentMoniker": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp",
+              "RelativeDocumentMoniker": "CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp",
+              "ToolTip": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp",
+              "RelativeToolTip": "CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-31T18:03:34.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
