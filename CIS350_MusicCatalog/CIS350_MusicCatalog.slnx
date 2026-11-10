@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CIS350_MusicCatalog/CIS350_MusicCatalog.vcxproj" />
+  <Project Path="CIS350_MusicCatalog/CIS350_MusicCatalog.vcxproj" Id="b36a23d7-51a7-49ff-a71c-8253f8b293f5" />
 </Solution>

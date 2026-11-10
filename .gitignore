@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Due to the dataset's license (Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Spain), this cannot be included
+Datasets/*
