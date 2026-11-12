@@ -1,0 +1,10 @@
+﻿  AVLTree.cpp
+  CIS350_MusicCatalog.cpp
+  Generating Code...
+X:\CPP\CIS350_FinalProject_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog.cpp(49,1): error C4716: 'menu_get_instrument': must return a value
+X:\CPP\CIS350_FinalProject_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog.cpp(70,1): error C4716: 'menu_get_excerpt': must return a value
+X:\CPP\CIS350_FinalProject_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog\AVLTree.cpp(57,1): error C4716: 'AVLTree::find_node': must return a value
+X:\CPP\CIS350_FinalProject_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog\AVLTree.cpp(69,1): error C4716: 'AVLTree::get_youngest_descendant': must return a value
+X:\CPP\CIS350_FinalProject_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog\AVLTree.cpp(65,1): error C4716: 'AVLTree::get_youngest_ancestor': must return a value
+X:\CPP\CIS350_FinalProject_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog\AVLTree.cpp(73,1): error C4716: 'AVLTree::get_successor': must return a value
+X:\CPP\CIS350_FinalProject_MusicCatalog\CIS350_MusicCatalog\CIS350_MusicCatalog\AVLTree.cpp(79,1): error C4716: 'AVLTree::get_tallest_child': must return a value

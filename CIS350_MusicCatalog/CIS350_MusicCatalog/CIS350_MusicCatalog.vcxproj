@@ -139,7 +139,15 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AVLNode.cpp" />
+    <ClCompile Include="AVLTree.cpp" />
     <ClCompile Include="CIS350_MusicCatalog.cpp" />
+    <ClCompile Include="Excerpt.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AVLNode.h" />
+    <ClInclude Include="AVLTree.h" />
+    <ClInclude Include="Excerpt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

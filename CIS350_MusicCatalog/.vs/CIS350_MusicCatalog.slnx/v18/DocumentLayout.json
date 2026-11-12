@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|solutionrelative:CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|solutionrelative:CIS350_MusicCatalog\\AVLTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|solutionrelative:CIS350_MusicCatalog\\AVLTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|solutionrelative:CIS350_MusicCatalog\\AVLNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|solutionrelative:CIS350_MusicCatalog\\AVLNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\Excerpt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|solutionrelative:CIS350_MusicCatalog\\Excerpt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\Excerpt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B36A23D7-51A7-49FF-A71C-8253F8B293F5}|CIS350_MusicCatalog\\CIS350_MusicCatalog.vcxproj|solutionrelative:CIS350_MusicCatalog\\Excerpt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +48,95 @@
               "RelativeDocumentMoniker": "CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp",
               "ToolTip": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp",
               "RelativeToolTip": "CIS350_MusicCatalog\\CIS350_MusicCatalog.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-31T18:03:34.154Z",
-              "EditorCaption": ""
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Excerpt.h",
+              "DocumentMoniker": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\Excerpt.h",
+              "RelativeDocumentMoniker": "CIS350_MusicCatalog\\Excerpt.h",
+              "ToolTip": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\Excerpt.h",
+              "RelativeToolTip": "CIS350_MusicCatalog\\Excerpt.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T18:55:44.869Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Excerpt.cpp",
+              "DocumentMoniker": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\Excerpt.cpp",
+              "RelativeDocumentMoniker": "CIS350_MusicCatalog\\Excerpt.cpp",
+              "ToolTip": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\Excerpt.cpp",
+              "RelativeToolTip": "CIS350_MusicCatalog\\Excerpt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T18:55:19.833Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AVLNode.h",
+              "DocumentMoniker": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLNode.h",
+              "RelativeDocumentMoniker": "CIS350_MusicCatalog\\AVLNode.h",
+              "ToolTip": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLNode.h",
+              "RelativeToolTip": "CIS350_MusicCatalog\\AVLNode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T19:01:03.856Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AVLNode.cpp",
+              "DocumentMoniker": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLNode.cpp",
+              "RelativeDocumentMoniker": "CIS350_MusicCatalog\\AVLNode.cpp",
+              "ToolTip": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLNode.cpp",
+              "RelativeToolTip": "CIS350_MusicCatalog\\AVLNode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T19:00:44.29Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AVLTree.h",
+              "DocumentMoniker": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLTree.h",
+              "RelativeDocumentMoniker": "CIS350_MusicCatalog\\AVLTree.h",
+              "ToolTip": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLTree.h",
+              "RelativeToolTip": "CIS350_MusicCatalog\\AVLTree.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T19:01:13.998Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AVLTree.cpp",
+              "DocumentMoniker": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLTree.cpp",
+              "RelativeDocumentMoniker": "CIS350_MusicCatalog\\AVLTree.cpp",
+              "ToolTip": "X:\\CPP\\CIS350_FinalProject_MusicCatalog\\CIS350_MusicCatalog\\CIS350_MusicCatalog\\AVLTree.cpp",
+              "RelativeToolTip": "CIS350_MusicCatalog\\AVLTree.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T19:00:53.716Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
             }
           ]
         }
