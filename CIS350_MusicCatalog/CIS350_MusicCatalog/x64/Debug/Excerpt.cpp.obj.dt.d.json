@@ -96,7 +96,9 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_terminate.h",
             "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\xatomic.h",
             "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\tuple",
-            "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\xpolymorphic_allocator.h"
+            "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\xpolymorphic_allocator.h",
+            "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\vector",
+            "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\__msvc_bit_utils.hpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

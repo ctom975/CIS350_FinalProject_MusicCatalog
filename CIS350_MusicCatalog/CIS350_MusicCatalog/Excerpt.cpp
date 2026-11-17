@@ -5,10 +5,10 @@ Excerpt::Excerpt()
 {
 
 }
-Excerpt::Excerpt(string n, string ic)
+Excerpt::Excerpt(string n, vector<string> ic)
 {
 	name = n;
-	inst_code = ic;
+	inst_codes = ic;
 }
 
 // Getters
@@ -16,9 +16,9 @@ string Excerpt::get_name() const
 {
 	return name;
 }
-string Excerpt::get_inst_code() const
+vector<string> Excerpt::get_inst_codes() const
 {
-	return inst_code;
+	return inst_codes;
 }
 
 // Setters
@@ -26,7 +26,22 @@ void Excerpt::set_name(string n)
 {
 	name = n;
 }
-void Excerpt::set_inst_code(string ic)
+void Excerpt::set_inst_codes(vector<string> ic)
 {
-	inst_code = ic;
+	inst_codes = ic;
+}
+void Excerpt::add_inst_code(string ic)
+{
+	inst_codes.push_back(ic);
+}
+
+// Utilities
+bool Excerpt::has_inst_code(string inst_code) const
+{
+	// Check if the inst_codes vector contains an inst_code
+	vector<string> ics = get_inst_codes();
+	auto itr = find(ics.begin(), ics.end(), inst_code);
+
+	// If the iterator reaches the end, no result was found
+	return (itr == ics.end()) ? false : true;
 }

@@ -7,7 +7,9 @@
 
 #include <iostream>
 #include <unordered_map>
+#include <vector>
 #include "Excerpt.h"
+#include "AVLTree.h"
 
 using namespace std;
 
@@ -69,6 +71,32 @@ string menu_get_excerpt()
     */
 }
 
+vector<Excerpt> build_excerpts()
+{
+    // TODO: Implement
+    // Read CSV file (comma-separated)
+    // Parse instrument codes (string /w codes separated by commas) to vector<string>
+    // Create excerpt for each line except line 1 (header)
+}
+
+vector<Excerpt> get_excerpts_with_instrument(string inst_code, vector<Excerpt> excerpts)
+{
+    // List of all excerpts that contain a certain instrument code
+    vector<Excerpt> filtered_excerpts;
+
+    // Iterate through all excerpts in the list
+    for (const Excerpt& e : excerpts)
+    {
+        // If an excerpt has a specified instrument code, add it to the filtered list
+        if (e.has_inst_code(inst_code))
+        {
+            filtered_excerpts.push_back(e);
+        }
+    }
+
+    return filtered_excerpts;
+}
+
 void avl_implementation()
 {
     // TODO: Implement
@@ -84,6 +112,6 @@ void hash_implementation()
 int main()
 {
     // Uncomment a line below to run an implemnetation using a specific data structure
-    //avl_implementation();   // AVL Trees
+    avl_implementation();   // AVL Trees
     //hash_implementation();  // Hash Map
 }

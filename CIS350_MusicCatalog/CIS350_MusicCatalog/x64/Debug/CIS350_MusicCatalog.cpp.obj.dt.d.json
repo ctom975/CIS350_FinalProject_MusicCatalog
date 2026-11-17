@@ -136,7 +136,9 @@
             "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\xbit_ops.h",
             "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\xnode_handle.h",
             "x:\\cpp\\cis350_finalproject_musiccatalog\\cis350_musiccatalog\\cis350_musiccatalog\\excerpt.h",
-            "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\string"
+            "e:\\visual studio\\18\\community\\vc\\tools\\msvc\\14.52.37025\\include\\string",
+            "x:\\cpp\\cis350_finalproject_musiccatalog\\cis350_musiccatalog\\cis350_musiccatalog\\avltree.h",
+            "x:\\cpp\\cis350_finalproject_musiccatalog\\cis350_musiccatalog\\cis350_musiccatalog\\avlnode.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
