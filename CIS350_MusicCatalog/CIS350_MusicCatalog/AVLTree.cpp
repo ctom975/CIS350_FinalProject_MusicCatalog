@@ -5,6 +5,11 @@ AVLTree::AVLTree()
 	// Doesn't need anything here
 }
 
+AVLTree::~AVLTree()
+{
+	delete_tree(root);
+}
+
 // Getters
 AVLNode* AVLTree::get_root() const
 {
@@ -26,6 +31,24 @@ void AVLTree::set_size(int s)
 }
 
 // Utilities
+bool AVLTree::contains(string excerpt_name)
+{
+	// Check if the tree contains a node with the specified Excerpt name
+	AVLNode* w = find_node(excerpt_name);
+	return (w != nullptr && w->get_name() == excerpt_name);
+}
+
+void AVLTree::delete_tree(AVLNode* w)
+{
+	// Recursively delete all nodes in the tree
+	if (w != nullptr)
+	{
+		delete_tree(w->get_left());
+		delete_tree(w->get_right());
+		delete w;
+	}
+}
+
 void AVLTree::make_child(AVLNode* p, AVLNode* c, bool is_left)
 {
 	// Set node c as the child of node p
@@ -45,7 +68,7 @@ void AVLTree::make_child(AVLNode* p, AVLNode* c, bool is_left)
 	if (c != nullptr)
 	{
 		// p becomes parent of c if c is a node
-		c->set_parent(p)
+		c->set_parent(p);
 	}
 }
 
@@ -86,7 +109,10 @@ AVLNode* AVLTree::add_node(string name)
 	set_size(get_size() + 1);
 
 	// Rebalance all ancestors of new node
-	rebalance_ancestors(w->get_parent());
+	if (x->get_parent() != nullptr)
+	{
+		rebalance_ancestors(x->get_parent());
+	}
 
 	// Return new node
 	return x;

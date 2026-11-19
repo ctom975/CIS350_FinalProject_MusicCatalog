@@ -11,6 +11,7 @@ private:
 	int size = 0;
 public:
 	AVLTree();
+	~AVLTree();
 
 	// Getters
 	AVLNode* get_root() const;
@@ -22,6 +23,8 @@ public:
 
 	// Utilities
 	void make_child(AVLNode*, AVLNode*, bool);
+	void delete_tree(AVLNode*);
+	bool contains(string);
 
 	// BST functions
 	bool is_empty() const;
